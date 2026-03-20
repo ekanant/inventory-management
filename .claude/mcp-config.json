@@ -3,9 +3,7 @@
     "playwright": {
       "command": "npx",
       "args": [
-        "@playwright/mcp@latest",
-        "--executable-path",
-        "/Users/e.phanuwatyingyong/Applications/Google Chrome.app/Contents/MacOS/Google Chrome"
+        "@playwright/mcp@latest"
       ],
       "env": {}
     },
